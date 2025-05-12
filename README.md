@@ -99,3 +99,6 @@
   </footer>
 </body>
 </html>
+git add _config.yml
+git commit -m "Remove default GitHub Pages header"
+git push origin main
